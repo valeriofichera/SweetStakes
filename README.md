@@ -1,1 +1,2 @@
 # SweetStakes
+encode hackathon submission
